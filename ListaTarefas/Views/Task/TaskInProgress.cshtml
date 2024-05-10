@@ -1,0 +1,36 @@
+﻿@model List<TaskModel>;
+
+
+<h2 class="mb-4 text-center">Tarefas em Andamento</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Tarefa</th>
+            <th>Status</th>
+            <th>Data de Início</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var task in Model)
+        {
+            if (task.Status == "Em andamento")
+            {
+
+                <tr>
+                    <td>@task.Id</td>
+                    <td>@task.Name</td>
+                    <td>@task.TaskName</td>
+                    <td>@task.Status</td>
+                    <td>@task.StartDate</td>
+                    <td>
+                        <a asp-action="Details" asp-route-id="@task.Id" class="btn btn-outline-success"><i class="bi bi-card-list"></i> Detalhes</a>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+

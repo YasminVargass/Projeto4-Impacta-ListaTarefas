@@ -1,0 +1,37 @@
+﻿@model List<TaskModel>;
+
+<h2 class="mb-4 text-center">Tarefas Concluídas</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Tarefa</th>
+            <th>Status</th>
+            <th>Data de Início</th>
+            <th>Data de Conclusão</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var task in Model)
+        {
+            if (task.Status == "Concluído")
+            {
+
+                <tr>
+                    <td>@task.Id</td>
+                    <td>@task.Name</td>
+                    <td>@task.TaskName</td>
+                    <td>@task.Status</td>
+                    <td>@task.StartDate</td>
+                    <td>@task.EndDate</td>
+                    <td>
+                        <a asp-action="Details" asp-route-id="@task.Id" class="btn btn-outline-success"><i class="bi bi-card-list"></i> Detalhes</a>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+

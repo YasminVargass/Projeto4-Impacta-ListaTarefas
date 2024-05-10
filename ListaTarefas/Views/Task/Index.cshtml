@@ -1,0 +1,37 @@
+﻿@model List<TaskModel>;
+
+    <h2>Lista de Tarefas</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-outline-primary">Adicionar Tarefa</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Tarefa</th>
+            <th>Status</th>
+            <th>Data de Início</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var task in Model)
+        {
+            <tr>
+                <td>@task.Id</td>
+                <td>@task.Name</td>
+                <td>@task.TaskName</td>
+                <td>@task.Status</td>
+                <td>@task.StartDate</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@task.Id" class="btn btn-outline-primary"><i class="bi bi-pencil-square"></i>Editar</a>
+                    <a asp-action="Details" asp-route-id="@task.Id" class="btn btn-outline-secondary"><i class="bi bi-layout-text-sidebar"></i> Detalhes</a>
+                    <a asp-action="Delete" asp-route-id="@task.Id" class="btn btn-outline-danger"><i class="bi bi-trash"></i> Deletar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
