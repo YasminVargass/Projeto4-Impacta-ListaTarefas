@@ -9,7 +9,8 @@ namespace ListaTarefas.Controllers
 
         private static List<TaskModel> _tasks = new List<TaskModel>() {
             new TaskModel { Id = 1, Name = "Yasmin", TaskName = "Lavar Louça", Status = "Em andamento" },
-            new TaskModel { Id = 2, Name = "Leila", TaskName = "Lavar o Banheiro", Status = "Concluído" }};
+            new TaskModel { Id = 2, Name = "Leila", TaskName = "Lavar o Banheiro", Status = "Concluído" },
+            new TaskModel { Id = 3, Name = "Julia", TaskName = "Fazer as compras", Status = "Em andamento" }};
         public IActionResult Index()
         {
             return View(_tasks);

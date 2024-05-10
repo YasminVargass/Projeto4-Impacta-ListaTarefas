@@ -28,3 +28,4 @@ C:\Users\y.pereira.vargas\Desktop\Decola-Tech\Projeto4\ListaTarefas\obj\Debug\ne
 C:\Users\y.pereira.vargas\Desktop\Decola-Tech\Projeto4\ListaTarefas\obj\Debug\net8.0\ListaTarefas.pdb
 C:\Users\y.pereira.vargas\Desktop\Decola-Tech\Projeto4\ListaTarefas\obj\Debug\net8.0\ListaTarefas.genruntimeconfig.cache
 C:\Users\y.pereira.vargas\Desktop\Decola-Tech\Projeto4\ListaTarefas\obj\Debug\net8.0\ref\ListaTarefas.dll
+C:\Users\y.pereira.vargas\Desktop\Decola-Tech\Projeto4\ListaTarefas\obj\Debug\net8.0\ListaTarefas.sourcelink.json

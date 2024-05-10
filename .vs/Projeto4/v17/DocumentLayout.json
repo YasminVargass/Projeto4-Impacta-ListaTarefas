@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\Projeto4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{058DAEC7-E076-4DE4-B2F5-99B664FBBA19}|ListaTarefas\\ListaTarefas.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projeto4\\listatarefas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{058DAEC7-E076-4DE4-B2F5-99B664FBBA19}|ListaTarefas\\ListaTarefas.csproj|solutionrelative:listatarefas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{058DAEC7-E076-4DE4-B2F5-99B664FBBA19}|ListaTarefas\\ListaTarefas.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projeto4\\listatarefas\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058DAEC7-E076-4DE4-B2F5-99B664FBBA19}|ListaTarefas\\ListaTarefas.csproj|solutionrelative:listatarefas\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058DAEC7-E076-4DE4-B2F5-99B664FBBA19}|ListaTarefas\\ListaTarefas.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projeto4\\listatarefas\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058DAEC7-E076-4DE4-B2F5-99B664FBBA19}|ListaTarefas\\ListaTarefas.csproj|solutionrelative:listatarefas\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{058DAEC7-E076-4DE4-B2F5-99B664FBBA19}|ListaTarefas\\ListaTarefas.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projeto4\\listatarefas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{058DAEC7-E076-4DE4-B2F5-99B664FBBA19}|ListaTarefas\\ListaTarefas.csproj|solutionrelative:listatarefas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{058DAEC7-E076-4DE4-B2F5-99B664FBBA19}|ListaTarefas\\ListaTarefas.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projeto4\\listatarefas\\views\\task\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{058DAEC7-E076-4DE4-B2F5-99B664FBBA19}|ListaTarefas\\ListaTarefas.csproj|solutionrelative:listatarefas\\views\\task\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{058DAEC7-E076-4DE4-B2F5-99B664FBBA19}|ListaTarefas\\ListaTarefas.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projeto4\\listatarefas\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058DAEC7-E076-4DE4-B2F5-99B664FBBA19}|ListaTarefas\\ListaTarefas.csproj|solutionrelative:listatarefas\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{058DAEC7-E076-4DE4-B2F5-99B664FBBA19}|ListaTarefas\\ListaTarefas.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projeto4\\listatarefas\\views\\task\\taskinprogress.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{058DAEC7-E076-4DE4-B2F5-99B664FBBA19}|ListaTarefas\\ListaTarefas.csproj|solutionrelative:listatarefas\\views\\task\\taskinprogress.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{058DAEC7-E076-4DE4-B2F5-99B664FBBA19}|ListaTarefas\\ListaTarefas.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projeto4\\listatarefas\\views\\task\\taskconcluded.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{058DAEC7-E076-4DE4-B2F5-99B664FBBA19}|ListaTarefas\\ListaTarefas.csproj|solutionrelative:listatarefas\\views\\task\\taskconcluded.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{058DAEC7-E076-4DE4-B2F5-99B664FBBA19}|ListaTarefas\\ListaTarefas.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projeto4\\listatarefas\\views\\task\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{058DAEC7-E076-4DE4-B2F5-99B664FBBA19}|ListaTarefas\\ListaTarefas.csproj|solutionrelative:listatarefas\\views\\task\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,67 +35,63 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\Projeto4\\ListaTarefas\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ListaTarefas\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\Projeto4\\ListaTarefas\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ListaTarefas\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAABoAAAB1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-10T16:42:56.586Z",
+              "Title": "TaskModel.cs",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\Projeto4\\ListaTarefas\\Models\\TaskModel.cs",
+              "RelativeDocumentMoniker": "ListaTarefas\\Models\\TaskModel.cs",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\Projeto4\\ListaTarefas\\Models\\TaskModel.cs",
+              "RelativeToolTip": "ListaTarefas\\Models\\TaskModel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T18:24:28.423Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\Projeto4\\ListaTarefas\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ListaTarefas\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\Projeto4\\ListaTarefas\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ListaTarefas\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-10T16:40:15.572Z",
-              "EditorCaption": ""
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\Projeto4\\ListaTarefas\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ListaTarefas\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\Projeto4\\ListaTarefas\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ListaTarefas\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T18:24:22.215Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\Projeto4\\ListaTarefas\\Views\\Task\\Index.cshtml",
-              "RelativeDocumentMoniker": "ListaTarefas\\Views\\Task\\Index.cshtml",
-              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\Projeto4\\ListaTarefas\\Views\\Task\\Index.cshtml",
-              "RelativeToolTip": "ListaTarefas\\Views\\Task\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\Projeto4\\ListaTarefas\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ListaTarefas\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\Projeto4\\ListaTarefas\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ListaTarefas\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-10T16:40:13.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TaskConcluded.cshtml",
-              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\Projeto4\\ListaTarefas\\Views\\Task\\TaskConcluded.cshtml",
-              "RelativeDocumentMoniker": "ListaTarefas\\Views\\Task\\TaskConcluded.cshtml",
-              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\Projeto4\\ListaTarefas\\Views\\Task\\TaskConcluded.cshtml",
-              "RelativeToolTip": "ListaTarefas\\Views\\Task\\TaskConcluded.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-10T16:35:33.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T18:24:14.137Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TaskInProgress.cshtml",
-              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\Projeto4\\ListaTarefas\\Views\\Task\\TaskInProgress.cshtml",
-              "RelativeDocumentMoniker": "ListaTarefas\\Views\\Task\\TaskInProgress.cshtml",
-              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\Projeto4\\ListaTarefas\\Views\\Task\\TaskInProgress.cshtml",
-              "RelativeToolTip": "ListaTarefas\\Views\\Task\\TaskInProgress.cshtml",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAABwAAABmAAAA",
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\Projeto4\\ListaTarefas\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "ListaTarefas\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\Projeto4\\ListaTarefas\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "ListaTarefas\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAwAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T17:31:22.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\Projeto4\\ListaTarefas\\Views\\Task\\Details.cshtml",
+              "RelativeDocumentMoniker": "ListaTarefas\\Views\\Task\\Details.cshtml",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\Projeto4\\ListaTarefas\\Views\\Task\\Details.cshtml",
+              "RelativeToolTip": "ListaTarefas\\Views\\Task\\Details.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-10T16:35:32.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T17:30:42.066Z"
             }
           ]
         }

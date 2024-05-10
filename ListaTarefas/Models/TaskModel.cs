@@ -15,7 +15,6 @@ namespace ListaTarefas.Models
         [Display(Name = "Tarefa")]
         public string? TaskName { get; set;}
 
-        //ver com o Juan
         public string? Status { get; set; } = "Em andamento";
         
         [Display(Name = "Data Início")]
